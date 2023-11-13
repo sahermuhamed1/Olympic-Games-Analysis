@@ -12,3 +12,5 @@ To resolve this business problem, I followed several steps:-
 ♦️ *Visualized the data, presenting information on the number of competitors and medals, sports, gender of the competitors, etc.*
 ♦️ *Ensured that the visualization is readable for stakeholders and readers*
 While I believe this project is not overly complex, it offers a wealth of valuable information and establishes a solid foundation for readers and stakeholders interested in the Olympic games. 🙌
+
+Project Tutorial :https://www.linkedin.com/feed/update/urn:li:activity:7129289243268399104/
