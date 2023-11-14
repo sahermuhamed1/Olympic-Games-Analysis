@@ -13,4 +13,21 @@ To resolve this business problem, I followed several steps:-
 ♦️ *Ensured that the visualization is readable for stakeholders and readers*
 While I believe this project is not overly complex, it offers a wealth of valuable information and establishes a solid foundation for readers and stakeholders interested in the Olympic games. 🙌
 
+# Dataset
+![Dashboard](datasetpng)
+The dataset, named olympic_games, contains the following columns:
+
+ID: Competititor ID
+Competitor name: name of the competitor
+Sex
+Age
+Age grouping: To which age group does the competitor belong? 
+Height
+Weight
+Nation Code
+Event: Event that the competitor Participate in it
+Medal: type of medal 
+... (and other attributes related to olympics)
+
+
 Project Tutorial :https://www.linkedin.com/feed/update/urn:li:activity:7129289243268399104/
