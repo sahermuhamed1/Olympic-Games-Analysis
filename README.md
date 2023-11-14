@@ -1,4 +1,4 @@
-# Olympic-Games-Analysis
+# Overview Dashboard
 ![Dashboard](dash.png)
 **Olympic Games Analysis using SQL + Power BI**
 
