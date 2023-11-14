@@ -64,6 +64,6 @@ The dataset, named olympic_games, contains the following columns:
 **SQL query**
 ![Dashboard](DataBase.png)
 
-# Ysage
+# Usage
 
 Project Tutorial :https://www.linkedin.com/feed/update/urn:li:activity:7129289243268399104/
