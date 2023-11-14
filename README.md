@@ -1,3 +1,13 @@
+# Table of Contents
+1.**Introduction**
+1.**Overview Dashboard**
+3.**Dataset**
+4.**SQL the data**
+5.**Usage**
+
+# Intoduction
+The project aims to analyze the 'Olympic Games' dataset to derive insights and facilitate data-driven decision-making for anyone interested in data analysis and dashboards.
+
 # Overview Dashboard
 ![Dashboard](dash.png)
 **Olympic Games Analysis using SQL + Power BI**
@@ -41,5 +51,19 @@ The dataset, named olympic_games, contains the following columns:
 
 ♦️... (and other attributes related to olympics)
 
+
+# SQL the data
+**Data Processing and cleaning SQL**
+1. Filtering Data
+2. Removing Unnecessary Columns
+3. Data Type Conversion
+4. Creating Calculated Column
+5. Aggregating Data
+6. Connect Power Bi to my msSQL
+
+**SQL query**
+![Dashboard](DataBase.png)
+
+# Ysage
 
 Project Tutorial :https://www.linkedin.com/feed/update/urn:li:activity:7129289243268399104/
