@@ -14,7 +14,9 @@ To resolve this business problem, I followed several steps:-
 While I believe this project is not overly complex, it offers a wealth of valuable information and establishes a solid foundation for readers and stakeholders interested in the Olympic games. 🙌
 
 # Dataset
+
 ![Dashboard](datasetpng)
+
 The dataset, named olympic_games, contains the following columns:
 
 ID: Competititor ID
