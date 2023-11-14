@@ -15,7 +15,7 @@ While I believe this project is not overly complex, it offers a wealth of valuab
 
 # Dataset
 
-![Dashboard](datasetpng)
+![Dashboard](dataset.png)
 
 The dataset, named olympic_games, contains the following columns:
 
