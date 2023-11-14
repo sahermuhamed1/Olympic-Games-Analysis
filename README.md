@@ -19,17 +19,27 @@ While I believe this project is not overly complex, it offers a wealth of valuab
 
 The dataset, named olympic_games, contains the following columns:
 
-ID: Competititor ID
-Competitor name: name of the competitor
-Sex
-Age
-Age grouping: To which age group does the competitor belong? 
-Height
-Weight
-Nation Code
-Event: Event that the competitor Participate in it
-Medal: type of medal 
-... (and other attributes related to olympics)
+♦️ID: Competititor ID
+
+♦️Competitor name: name of the competitor
+
+♦️Sex
+
+♦️Age
+
+♦️Age grouping: To which age group does the competitor belong? 
+
+♦️Height
+
+♦️Weight
+
+♦️Nation Code
+
+♦️Event: Event that the competitor Participate in it
+
+♦️Medal: type of medal 
+
+♦️... (and other attributes related to olympics)
 
 
 Project Tutorial :https://www.linkedin.com/feed/update/urn:li:activity:7129289243268399104/
