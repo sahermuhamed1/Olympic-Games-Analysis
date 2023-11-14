@@ -1,5 +1,5 @@
 # Olympic-Games-Analysis
-
+![Dashboard](dash.png)
 **Olympic Games Analysis using SQL + Power BI**
 
 This project addresses another businees problem In this context, I see myself as a data analyst employed at a news company. The task involves visualizing data to help readers comprehend how countries have historically performed in the Summer Olympic Games. 📈🥇
