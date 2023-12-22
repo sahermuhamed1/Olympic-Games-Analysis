@@ -61,6 +61,8 @@ The dataset, named olympic_games, contains the following columns:
 5. Aggregating Data
 6. Connect Power Bi to my msSQL
 
+![Click here to see the full SQL queries](Olympic games project/Olympic games project.sql)
+
 **SQL query**
 ![Dashboard](DataBase.png)
 
